@@ -124,6 +124,7 @@ function handlePlayerTwoChoseRock(event: Event) {
     }
   }
 }
+
 function handlePlayerTwoChosePaper(event: Event) {
   playerTwoChoice = 'paper'
 
@@ -151,6 +152,7 @@ function handlePlayerTwoChosePaper(event: Event) {
     }
   }
 }
+
 function handlePlayerTwoChoseScissors(event: Event) {
   playerTwoChoice = 'scissors'
 
