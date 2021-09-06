@@ -14,10 +14,10 @@ body {
   background-color: #000000;
 }
 header {
-  font-size: 2rem;
   text-align: center;
   padding: 1rem 0 1rem 0;
-  margin-top: 1.5rem;
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
   background-color: #202020;
 }
 main {
@@ -62,6 +62,7 @@ footer {
   text-align: center;
   font-size: 2rem;
   padding: 1rem 0 1rem 0;
-  margin-bottom: 1.5rem;
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
   background-color: #202020;
 }
